@@ -1,0 +1,13 @@
+Please read them in the given order to establish correlation : 
+
+1. Zookeeper : 
+      https://www.youtube.com/watch?v=l6Ta75ZSXi4
+      https://zookeeper.apache.org/doc/r3.1.2/zookeeperInternals.html
+      https://www.cloudkarafka.com/blog/cloudkarafka-zab.html
+      
+2. Kafka : 
+      https://kafka.apache.org/11/documentation/streams/architecture
+      https://data-flair.training/blogs/kafka-architecture/
+      
+3. Redis : 
+      https://redis.io/docs/
