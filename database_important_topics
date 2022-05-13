@@ -1,0 +1,31 @@
+Indexing : https://use-the-index-luke.com/
+Database Locks : https://www.methodsandtools.com/archive/archive.php?id=83
+Data Concurrency and Consistency : 
+      https://www.ibm.com/docs/en/db2-for-zos/11?topic=performance-programming-concurrency
+      https://docs.oracle.com/cd/B19306_01/server.102/b14220/consist.htm
+      https://www.scaler.com/topics/dbms/concurrency-control-in-dbms/
+Isolation level : https://www.ibm.com/docs/en/db2-for-zos/11?topic=locks-choosing-isolation-option
+Connection Pooling : https://www.cockroachlabs.com/blog/what-is-connection-pooling/
+Clocks in distributed systems : https://levelup.gitconnected.com/distributed-systems-physical-logical-and-vector-clocks-7ca989f5f780
+Commit Protocols : 
+      https://cse.iitkgp.ac.in/~pallab/dist_sys/Lec-11-CommitProtocols.pdf
+      https://www.tutorialspoint.com/distributed_dbms/distributed_dbms_commit_protocols.htm
+Two Phase Commit : 
+      https://martinfowler.com/articles/patterns-of-distributed-systems/two-phase-commit.html
+      https://www.alibabacloud.com/blog/tech-insights---two-phase-commit-protocol-for-distributed-transactions_597326
+How does db2(mysql) database store data on disk : https://www.ibm.com/docs/en/db2-for-zos/12?topic=concepts-storage-structures
+Cassandra architecture : https://docs.datastax.com/en/cassandra-oss/3.0/cassandra/architecture/archIntro.html
+How does Cassandra store data on disk : 
+      https://teddyma.gitbooks.io/learncassandra/content/model/where_is_data_stored.html
+      https://docs.datastax.com/en/cassandra-oss/3.0/cassandra/dml/dmlHowDataWritten.html
+      https://thelastpickle.com/blog/2016/03/04/introductiont-to-the-apache-cassandra-3-storage-engine.html
+Gossip Protocol : 
+      http://highscalability.com/blog/2011/11/14/using-gossip-protocols-for-failure-detection-monitoring-mess.html
+      https://www.consul.io/docs/architecture/gossip
+      https://martinfowler.com/articles/patterns-of-distributed-systems/gossip-dissemination.html
+
+      
+
+      
+      
+
