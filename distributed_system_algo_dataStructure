@@ -1,0 +1,17 @@
+Data Structures : 
+  1. Bloom filter: 
+          https://www.interviewcake.com/concept/java/bloom-filter
+          https://llimllib.github.io/bloomfilter-tutorial/
+          https://devopedia.org/bloom-filter
+          https://www.youtube.com/watch?v=gBygn3cVP80
+          https://www.youtube.com/watch?v=bgzUdBVr5tE
+          https://blog.cloudflare.com/when-bloom-filters-dont-bloom/
+          https://redis.com/redis-best-practices/bloom-filter-pattern/
+          https://github.com/RedisBloom/RedisBloom
+          https://www.godaddy.com/engineering/2018/09/11/redis-ruby-bloom-filter/
+          https://iq.opengenus.org/applications-of-bloom-filter/
+          
+  2. HyperLogLog
+          https://engineering.fb.com/2018/12/13/data-infrastructure/hyperloglog/
+          https://thoughtbot.com/blog/hyperloglogs-in-redis
+          https://redis.com/redis-best-practices/counting/hyperloglog/
