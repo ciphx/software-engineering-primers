@@ -1,0 +1,26 @@
+CPU Scheduling
+
+    Round Robin, SJF, FCFS
+    Schedulers
+
+Synchornization
+
+    Semaphore 
+
+Deadlock
+
+    Banker Algorithm
+
+Memory Management
+
+    Paging 
+    Segmentation
+    Multilevel paging
+    Virtual Memory
+    Page replacement techniques
+
+File System
+
+    UNIX File System
+    Disc Scheduling
+    Disc Scheduling Techniques
