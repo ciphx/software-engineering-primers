@@ -1,0 +1,36 @@
+Important subjects from undergrad : 
+
+1. Operating System : https://www.youtube.com/watch?v=MaA0vFKt-ew&list=PLLDC70psjvq5hIT0kfr1sirNuees0NIbG
+                      https://learning.oreilly.com/library/view/operating-system-concepts/9781118063330/
+                      
+2. Networking : https://www.amazon.in/Computer-Networking-Top-Down-James-Kurose/dp/0133594149
+3. Database Management System (DBMS ) : https://use-the-index-luke.com/
+                                        https://www.ibm.com/docs/en/db2-for-zos/11?topic=managing-db2-performance
+                                        https://www.youtube.com/c/CMUDatabaseGroup
+
+Competitive Programming resource : 
+
+1. https://docs.google.com/spreadsheets/d/1iJZWP2nS_OB3kCTjq8L6TrJJ4o-5lhxDOyTaocSYc-k/edit#gid=84654839
+
+Useful youtube channels : 
+
+General backend engineering : https://www.youtube.com/c/HusseinNasser-software-engineering
+
+System design : 
+            https://www.youtube.com/c/GauravSensei
+            https://www.youtube.com/c/TechDummiesNarendraL
+LLD : 
+      https://www.youtube.com/c/anomaly2104
+      https://github.com/anomaly2104
+      https://github.com/coding-parrot
+      
+Miscellaneous : 
+      https://www.youtube.com/c/sudoCODE
+      
+Useful resources for system design : 
+1. https://github.com/donnemartin/system-design-primer
+2. https://www.educative.io/courses/grokking-the-system-design-interview/B892KY261z2
+3. https://get.interviewready.io/courses/system-design-course
+      
+      
+
