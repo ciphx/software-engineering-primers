@@ -4,7 +4,9 @@ Data Concurrency and Consistency :
       https://www.ibm.com/docs/en/db2-for-zos/11?topic=performance-programming-concurrency
       https://docs.oracle.com/cd/B19306_01/server.102/b14220/consist.htm
       https://www.scaler.com/topics/dbms/concurrency-control-in-dbms/
-Isolation level : https://www.ibm.com/docs/en/db2-for-zos/11?topic=locks-choosing-isolation-option
+Isolation level : 
+      https://www.ibm.com/docs/en/db2-for-zos/11?topic=locks-choosing-isolation-option
+      https://www.linkedin.com/posts/alex-xu-a8131b11_systemdesign-coding-interviewtips-activity-6931998773543878656-WUch?utm_source=linkedin_share&utm_medium=member_desktop_web
 Connection Pooling : https://www.cockroachlabs.com/blog/what-is-connection-pooling/
 Clocks in distributed systems : https://levelup.gitconnected.com/distributed-systems-physical-logical-and-vector-clocks-7ca989f5f780
 Commit Protocols : 
