@@ -32,7 +32,7 @@ Useful resources/books for system design :
 2. https://www.educative.io/courses/grokking-the-system-design-interview/B892KY261z2
 3. https://get.interviewready.io/courses/system-design-course
 4. https://learning.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/
-5. https://www.amazon.com/dp/B08CMF2CQF/ or https://github.com/alex-xu-system/bytebytego
+5. https://www.amazon.com/dp/B08CMF2CQF/ or https://github.com/alex-xu-system/bytebytego or https://blog.bytebytego.com/
       
       
 
